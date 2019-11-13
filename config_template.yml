@@ -1,0 +1,6 @@
+development:
+    ignore_files:
+  - config/settings_data.json
+  password: 
+  theme_id: "79379529808"
+  store: DimStorePlus.myshopify.com
